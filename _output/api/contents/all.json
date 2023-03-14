@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-03-14T15:39:07.238318Z",
+      "format": null,
+      "last_modified": "2023-03-14T15:37:56.678305Z",
+      "mimetype": null,
+      "name": "Hello3DWorld.ipynb",
+      "path": "Hello3DWorld.ipynb",
+      "size": 1156125,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-03-14T15:39:07.234318Z",
+  "format": "json",
+  "last_modified": "2023-03-14T15:39:07.234318Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

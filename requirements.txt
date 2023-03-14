@@ -1,0 +1,2 @@
+imjoy_jupyterlab_extension
+jupyterlite[all]==0.1.0b17

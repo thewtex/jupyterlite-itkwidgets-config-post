@@ -1,0 +1,93 @@
+/*! !./node_modules/worker-loader/dist/workers/InlineWorker.js */
+
+/*! ../package.json */
+
+/*! ./plugin.webworker.js */
+
+/*! ./pluginCore.js */
+
+/*! ./pluginIframe.js */
+
+/*! ./rpc.js */
+
+/*! ./utils.js */
+
+/*! exports provided: API_VERSION, RPC */
+
+/*! exports provided: Connection, default */
+
+/*! exports provided: RPC, API_VERSION, VERSION, loadRequirements, waitForInitialization, setupRPC */
+
+/*! exports provided: connectRPC */
+
+/*! exports provided: injectScript, loadImJoyBasicApp */
+
+/*! exports provided: loadImJoyCore, latest_rpc_version, loadImJoyRPC, loadImJoyRPCSocketIO, loadImJoyBasicApp */
+
+/*! exports provided: name, version, description, module, scripts, repository, keywords, author, license, bugs, homepage, dependencies, devDependencies, eslintConfig, default */
+
+/*! exports provided: name, version, private, description, author, license, repository, keywords, bugs, homepage, module, scripts, dependencies, devDependencies, eslintConfig, prettier, postcss, browserslist, husky, lint-staged, default */
+
+/*! exports provided: randId, dtypeToTypedArray, loadRequirementsInWindow, loadRequirementsInWebworker, loadRequirements, normalizeConfig, typedArrayToDtypeMapping, typedArrayToDtype, cacheRequirements, setupServiceWorker, urlJoin, MessageEmitter */
+
+/*! no static exports found */
+
+/*!********************!*\
+  !*** ./src/rpc.js ***!
+  \********************/
+
+/*!*********************!*\
+  !*** ./src/main.js ***!
+  \*********************/
+
+/*!**********************!*\
+  !*** ./package.json ***!
+  \**********************/
+
+/*!**********************!*\
+  !*** ./src/utils.js ***!
+  \**********************/
+
+/*!***************************!*\
+  !*** ./src/pluginCore.js ***!
+  \***************************/
+
+/*!****************************!*\
+  !*** ./src/imjoyLoader.js ***!
+  \****************************/
+
+/*!*****************************!*\
+  !*** ./src/pluginIframe.js ***!
+  \*****************************/
+
+/*!******************************!*\
+  !*** ./src/imjoyBasicApp.js ***!
+  \******************************/
+
+/*!*********************************!*\
+  !*** ./src/plugin.webworker.js ***!
+  \*********************************/
+
+/*!****************************************!*\
+  !*** (webpack)/buildin/amd-options.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./src/imjoyBasicApp.template.css ***!
+  \****************************************/
+
+/*!*****************************************!*\
+  !*** ./src/imjoyBasicApp.template.html ***!
+  \*****************************************/
+
+/*!*********************************************!*\
+  !*** ./src/imjoyBasicAppMenu.template.html ***!
+  \*********************************************/
+
+/*!************************************************!*\
+  !*** ./src/imjoyBasicAppWindows.template.html ***!
+  \************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/worker-loader/dist/workers/InlineWorker.js ***!
+  \*****************************************************************/
